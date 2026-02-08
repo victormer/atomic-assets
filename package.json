@@ -1,6 +1,6 @@
 {
   "name": "@victormer/atomic-assets",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Asset loader with automatic fallbacks for 2D and 3D games. Load images, textures, and audio with graceful degradation.",
   "main": "dist/atomic-assets.js",
   "module": "src/index.js",
