@@ -9,7 +9,7 @@ Asset loader with automatic fallbacks for 2D and 3D games. Load images, textures
 ### CDN (recommended for Atomic Coding)
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/victormer/atomic-coding@atomic-assets-v0.1.0/packages/atomic-assets/dist/atomic-assets.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/victormer/atomic-assets@v0.1.0/dist/atomic-assets.min.js"></script>
 ```
 
 This exposes `window.ASSETS` globally.
